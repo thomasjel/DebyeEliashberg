@@ -51,15 +51,14 @@ make
 
 This project was developed as part of computational condensed matter and superconductivity research at the National Autonomous University of Mexico (UNAM).
 
-Related research includes:
-- Eliashberg superconductivity
-- Electron-phonon interactions
-- High-temperature hydride superconductors
-- Strong-coupling superconductivity
+Results obtained using this framework contributed to peer-reviewed scientific research and published work on Eliashberg superconductivity and hydride materials.
+
+Related publication:
+- https://scholar.google.com/citations?view_op=view_citation&hl=es&user=YsciO3sAAAAJ&authuser=1&citation_for_view=YsciO3sAAAAJ:u5HHmVD_uO8C
 
 ## Author
 
 Tomas Javier Escamilla Lara
 
 - LinkedIn: https://www.linkedin.com/in/tomas-j-escamilla-11262b239/
-- Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=es&user=YsciO3sAAAAJ&authuser=1&citation_for_view=YsciO3sAAAAJ:u5HHmVD_uO8C
+- Google Scholar: [https://scholar.google.com/citations?view_op=view_citation&hl=es&user=YsciO3sAAAAJ&authuser=1&citation_for_view=YsciO3sAAAAJ:u5HHmVD_uO8C](https://scholar.google.com/citations?hl=es&user=YsciO3sAAAAJ&view_op=list_works&authuser=1&gmla=AIqSsVuGJyEd-Q_jqm6VdGcF4M34HLIch9Is7hMB4oCOH0iJ5QJ6PJI6XTNT3JQU_X-ALmnTWWOaeW_1GJ4l0xYa42h2PLojY2nWDW6cqjukSEl5EIrKqw_ybk1jwUBf-IQ4k3a1EJpr2waG7o16cko1TDVwkilaIZyczBFsYN-YQcAsglcn9M3aimzo_M9_-KJF0VT_5jIKAtQPAw)
