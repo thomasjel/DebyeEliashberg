@@ -1,5 +1,4 @@
 # DebyeEliashberg
-<<<<<<< HEAD
 
 High-performance Fortran framework for solving isotropic Eliashberg superconductivity equations using Debye and spectral electron-phonon kernels.
 
