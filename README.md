@@ -63,6 +63,3 @@ Tomas Javier Escamilla Lara
 
 - LinkedIn: https://www.linkedin.com/in/tomas-j-escamilla-11262b239/
 - Google Scholar: https://scholar.google.com/citations?view_op=view_citation&hl=es&user=YsciO3sAAAAJ&authuser=1&citation_for_view=YsciO3sAAAAJ:u5HHmVD_uO8C
-=======
-Lightweight Fortran framework for isotropic Eliashberg superconductivity using Debye and spectral electron-phonon kernels.
->>>>>>> bbc56cb192664d5b93e2919711b3ae5d38ac5971
